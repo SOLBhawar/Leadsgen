@@ -1,0 +1,54 @@
+[
+    {
+        "company_name": "Software Advice",
+        "domain": "softwareadvice.com",
+        "employee_range": "200-500",
+        "location": "Europe",
+        "insights": [
+            "Cloudflare Ray ID:97cd4b9a4cbc54fe\u2022Your IP:Click to reveal103.79.168.215\u2022Performance & security byCloudflare",
+            "You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.",
+            "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data."
+        ],
+        "personalized_message": "Hi Software Advice,\n\nI noticed you recently encountered a Cloudflare security block while accessing a website.  This often indicates potential issues with website security or data submission.  At Software Advice, we specialize in helping businesses find and implement secure software solutions.  Could we schedule a brief call to discuss how better security software could prevent these interruptions and improve your online presence?"
+    },
+    {
+        "company_name": "SoftwareKeep",
+        "domain": "softwarekeep.com",
+        "employee_range": "200-500",
+        "location": "Europe",
+        "insights": [
+            "Businesses rely on our Software expertise to enhance their tech stack",
+            "But this is silly because we don't have the overheads that Best Buy has. That means we can pass some of those savings to you while maintaining a healthy, equitable business."
+        ],
+        "personalized_message": "Hi SoftwareKeep,\n\nSoftwareKeep helps businesses optimize their technology stacks with expert software solutions.  Unlike larger retailers, our streamlined operation allows us to offer competitive pricing without compromising quality or service.  We're confident we can provide significant value to your organization.  Would you be open to a brief call to discuss your specific needs?"
+    },
+    {
+        "company_name": "Software Testing He",
+        "domain": "softwaretestinghelp.com",
+        "employee_range": "200-500",
+        "location": "Europe",
+        "insights": [],
+        "personalized_message": "Hi Software Testing He,\n\nI noticed your recent blog post on scaling agile development.  At Software Testing He, we specialize in helping companies like yours navigate the complexities of software testing within agile frameworks. Our expertise in automation and performance testing ensures faster release cycles without compromising quality.  Would you be open to a brief call next week to discuss your current testing strategy?"
+    },
+    {
+        "company_name": "Software Test Tips",
+        "domain": "softwaretesttips.com",
+        "employee_range": "200-500",
+        "location": "Europe",
+        "insights": [
+            "All articles on this website are crafted with care, drawing from extensive research and credible sources. Our team is committed to delivering accurate, up-to-date, and insightful content by analyzing industry reports, academic publications, expert interviews, and trusted news outlets.",
+            "Software Test Tipsbegan as a platform dedicated to helping software testers and developers improve their craft, but it quickly expanded its focus to address the broader technology landscape, including Artificial Intelligence, Cybersecurity, Cloud Computing, and Software Development."
+        ],
+        "personalized_message": "Hi Software Test Tips,\n\nI noticed your company's work in AI development and wanted to share Software Test Tips.  We provide in-depth, research-backed articles covering software testing, AI, and cybersecurity, among other areas.  Our content is meticulously crafted using credible sources to ensure accuracy and relevance for professionals like yourself.  I believe our resources could be valuable to your team."
+    },
+    {
+        "company_name": "Software MacKiev",
+        "domain": "mackiev.com",
+        "employee_range": "200-500",
+        "location": "Europe",
+        "insights": [
+            "Home|Family Tree Maker|The Print Shop|KID PIX|WORLD BOOK|3D Weather Globe|HyperStudio|Mavis Beacon|ClueFinders|Edmark|In Memoriam"
+        ],
+        "personalized_message": "Hi Software MacKiev,\n\nSoftware MacKiev has been developing award-winning software for families and businesses for over 30 years,  with titles like Family Tree Maker and The Print Shop.  We understand the importance of user-friendly design and powerful functionality.  I noticed your company's focus on Software MacKiev, and believe our software solutions could significantly improve efficiency or enhance your offerings.  Would you be open to a brief call next week to discuss this further?"
+    }
+]
